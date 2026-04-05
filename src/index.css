@@ -1,0 +1,3 @@
+:root{--p:#6366f1;--a:#22d3ee;}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#06090e;color:#c8ddf5;font-family:system-ui,sans-serif;min-height:100vh}
