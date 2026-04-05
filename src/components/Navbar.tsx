@@ -1,0 +1,2 @@
+import React from'react'
+export default function Navbar({t}){return<nav style={{display:'flex',alignItems:'center',justifyContent:'space-between',padding:'14px 24px',background:'#0e1420',borderBottom:'1px solid #1b2a3d',position:'sticky',top:0}}><b style={{color:'var(--p)'}}>{t}</b><span style={{fontSize:11,color:'#6888a8'}}>v1.0</span></nav>}
